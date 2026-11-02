@@ -1,10 +1,9 @@
-# Adolescent fMRI impulsivity classification — EFA binary reproduction
+# Adolescent fMRI impulsivity classification
 
 ## Purpose
 
 Reproduce the original **two-class** random-forest classification of impulsivity using voxelwise fMRI features from **98 adolescents**. This repository contains **no LPA labels, models, or three-class analysis**.
 
-The binary labels are read **unchanged** from `data/adolescents_labels_filtered.csv`. There are **57 class-0** and **41 class-1** participants. The direction (high versus low impulsivity) should be verified against the original label-generation procedure before naming the classes clinically.
 
 ## Previously obtained results
 
